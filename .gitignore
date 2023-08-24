@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.iml
+.idea
+*.mp4
+models/*
 
 # C extensions
 *.so
