@@ -1,5 +1,6 @@
 # demo-face-blur
 Video anonymization software in Python that blurs people's faces using OpenCV, YuNet.
+[Check out my post on blurring faces @ medium.com](https://easyeasy.medium.com/protecting-privacy-a-comprehensive-guide-to-video-anonymization-for-ai-training-4b85fb23a61d)
 
 ## Requirements
 - Python 3.9
